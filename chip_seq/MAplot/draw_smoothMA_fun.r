@@ -1,1 +1,0 @@
-/home/boyuanli/bashscript/bin/ruvb2/chip-seq/diff_peak/draw_smoothMA_fun.r
