@@ -4,9 +4,6 @@
 
 # Tue Feb 19 16:05:23 2019
 
-# 写一个能够mapping，转成bigwig文件，还能去接头，call peak的脚本，这个脚本还应该有模块化的功能比如，去接头与质控，mapping与转bigwig，call peak就像hicpro一样；
-
-# 1. 质控 2.去接头 3. mapping 4. 转bigwig 5.call peak 
 
 set -euo pipefail
 function helps
