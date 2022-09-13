@@ -1,7 +1,6 @@
 #---- Pro-seq profile 
 rm(list=ls())
-# setwd('/WORK/lbyybl/WH/rvb/pro-seq/Ruvbl2/sample20190921/graph/TSS_profile/')
-setwd('/WORK/lbyybl/WH/rvb/RNAseq/sample20200330/result/gene_count/GO_result/kmeans5/noisoform/Proseq')
+setwd('') # set work dir
 trans_df <- function(data,name){
   data <- abs(data)
   colnames(data) <- paste0('c',0:10999)
